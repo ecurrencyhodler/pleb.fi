@@ -48,7 +48,8 @@ ticket prices will be:
 interested in becoming a sponsor? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
-resources and documentation coming soon...👾
+- Get up to speed on [WASM to build on Alkanes](https://github.com/rust-lang/rust/blob/master/src/doc/rustc/src/platform-support/wasm32-unknown-unknown.md).
+- 
 
 ## key dates
 
@@ -75,12 +76,12 @@ schedule subject to change at the whims of your organizers
 | 12:00 PM | Lunch | Lunch |
 | 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
-| 2:00 PM | Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
+| 2:00 PM | Workshop | TBD |
 | 2:30 PM | Workshop | TBD |
 | 3:00 PM | Workshop: building zk circuits w/ Cairo | TBD |
-| 3:30 PM | Workshop | TBD |
+| 3:30 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 4:00 PM | a really REALLY specific hackathon idea | [OwenKemeys](https://x.com/OwenKemeys) |
-| 4:20 PM | TBD | TBD |
+| 4:20 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [@setzeus](https://x.com/setzeus) |
 | 4:45 PM | Future of metaprotocols panel | TBD |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Dinner |
