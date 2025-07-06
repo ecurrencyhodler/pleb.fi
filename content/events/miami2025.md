@@ -19,7 +19,7 @@ there has been a renaissance in metaprotocols over the past couple of years incl
 come learn, hack, and join us as we never stop improvin' bitcoin!
 
 ## when?
-july 26-27 at the Port in Miami (midtown)
+july 26-27 at the Port in Miami
 
 ## apply to attend (tickets)
 apply to become a hackathon participant by clicking "apply now". if approved, we'll send you an email to buy tickets through luma. address of the event will be revealed once a ticket is purchased.
