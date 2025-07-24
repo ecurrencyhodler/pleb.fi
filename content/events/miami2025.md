@@ -74,7 +74,7 @@ schedule subject to change at the whims of your organizers
 | 12:00 PM | Lunch | Empanadas! |
 | 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
-| 2:00 PM | TBD | Ryan Grant |
+| 2:00 PM | The Key to Self-custody is Key Distribution | [Ryan Grant](https://github.com/dcdpr) |
 | 2:30 PM | Workshop: building zk circuits w/ Cairo | TBD |
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime | [OwenKemeys](https://x.com/OwenKemeys) |
