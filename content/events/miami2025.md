@@ -75,11 +75,11 @@ schedule subject to change at the whims of your organizers
 | 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [setzeus](https://x.com/setzeus) |
 | 2:00 PM | The Key to Self-custody is Key Distribution | [Ryan Grant](https://github.com/dcdpr) |
-| 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs | [_fmrmf_](https://x.com/_fmrmf_) |
+| 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs |  [ `_fmrmf_`](https://x.com/_fmrmf_) |
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime | [OwenKemeys](https://x.com/OwenKemeys) |
 | 4:00 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
-| 4:30 PM | Future of metaprotocols panel | [Lukasz](https://x.com/lukaszwicher), [btc_luce](https://x.com/btc_luce), [TaggaOyl](https://x.com/taggaOyl) |
+| 4:30 PM | Future of metaprotocols panel | [Lukasz](https://x.com/lukaszwicher), [btc_luce](https://x.com/btc_luce), [judoflexchop](https://x.com/judoflexchop), [Michael Tidwell](https://x.com/miketwenty1) |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Mediterranean food |
 
