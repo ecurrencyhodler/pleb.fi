@@ -68,13 +68,13 @@ schedule subject to change at the whims of your organizers
 | Time | Topic | Speaker |
 | --------- | ----- | -----|
 | 9:00 AM | Breakfast | Coffee, pastries, fruit, and OJ |
-| 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers [Link to slides](https://github.com/rot13maxi/plebfi2025slides/blob/main/plebfi_slides_mk2.pdf)| [Rijndael](https://x.com/rot13maxi) |
+| 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers. [Link to slides](https://github.com/rot13maxi/plebfi2025slides/blob/main/plebfi_slides_mk2.pdf)| [Rijndael](https://x.com/rot13maxi) |
 | 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? [Link to slides](https://docs.google.com/presentation/d/1n5Fed_8hj7isp5v1SLJ0voy7_fNdJFe2ZbJUAb5BfDM/edit?usp=sharing) | [joshdoman_](https://x.com/joshdoman_) |
 | 10:30 AM | What's a metaprotocol panel | TBD |
 | 11:00 AM | Something you'll like, probably about ordinals. [Link to slides](https://github.com/JeremyRubin/pleb.fi/blob/master/static/slides/2025/miami/how-to-metaprotocol-raph.pdf)| [raphjaph](https://x.com/raphjaph) |
-| 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
+| 11:30 AM | Filters and metaprotocols. [Link to slides](https://docs.google.com/presentation/d/1d2OFeZ_7Ddq_7zejVNG-WzaKGlEq_8jX4OlK_6-hIA4/edit?usp=sharing) | [portlandhodl](https://x.com/PortlandHODL) |
 | 12:00 PM | Lunch | Empanadas! |
-| 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
+| 1:00 PM | Taproot Asset tips for hackathons. [Link to slides](https://docs.google.com/presentation/d/1MQr8sfQqko6pRJWT4skeQzfV7xdDwm0_KThlyktcl-c/edit?usp=sharing) | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [setzeus](https://x.com/setzeus) |
 | 2:00 PM | The Key to Self-custody is Key Distribution | [Ryan Grant](https://github.com/dcdpr) |
 | 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs |  [ `_fmrmf_`](https://x.com/_fmrmf_) |
