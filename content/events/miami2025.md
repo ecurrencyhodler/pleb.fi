@@ -48,7 +48,9 @@ ticket prices will be:
 interested in becoming a sponsor? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
-- Get up to speed on [WASM to build on Alkanes](https://github.com/rust-lang/rust/blob/master/src/doc/rustc/src/platform-support/wasm32-unknown-unknown.md).
+- [Get up to speed on WASM to build on Alkanes](https://github.com/rust-lang/rust/blob/master/src/doc/rustc/src/platform-support/wasm32-unknown-unknown.md).
+- [Drunken guide to programming in rust.](https://docs.google.com/presentation/d/19P7_OoNVf9lc3eZOltpDq2iejqrAT96cV9Hg-fq4W2k/edit?usp=drivesdk)
+- [Bitcoiner's intro to rust](https://btcdemy.thinkific.com/courses/intro-to-rust)
 
 ## key dates
 
@@ -66,8 +68,8 @@ schedule subject to change at the whims of your organizers
 | Time | Topic | Speaker |
 | --------- | ----- | -----|
 | 9:00 AM | Breakfast | Coffee, pastries, fruit, and OJ |
-| 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers | [Rijndael](https://x.com/rot13maxi) |
-| 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? | [joshdoman_](https://x.com/joshdoman_) |
+| 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers [Link to slides](https://github.com/rot13maxi/plebfi2025slides/blob/main/plebfi_slides_mk2.pdf)| [Rijndael](https://x.com/rot13maxi) |
+| 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? [Link to slides](https://docs.google.com/presentation/d/1n5Fed_8hj7isp5v1SLJ0voy7_fNdJFe2ZbJUAb5BfDM/edit?usp=sharing) | [joshdoman_](https://x.com/joshdoman_) |
 | 10:30 AM | What's a metaprotocol panel | TBD |
 | 11:00 AM | Something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
 | 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
