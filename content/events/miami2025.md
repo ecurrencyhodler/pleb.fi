@@ -76,7 +76,7 @@ schedule subject to change at the whims of your organizers
 | 12:00 PM | Lunch | Empanadas! |
 | 1:00 PM | Taproot Asset tips for hackathons. [Link to slides](https://docs.google.com/presentation/d/1MQr8sfQqko6pRJWT4skeQzfV7xdDwm0_KThlyktcl-c/edit?usp=sharing) | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2. [Link to slides](https://github.com/setzeus/accelerate-tx-flavors) | [setzeus](https://x.com/setzeus) |
-| 2:00 PM | The Key to Self-custody is Key Distribution | [Ryan Grant](https://github.com/dcdpr) |
+| 2:00 PM | The Key to Self-custody is Key Distribution. [Link to slides](https://github.com/JeremyRubin/pleb.fi/blob/master/static/slides/2025/miami/rgrant-btc1-key-distribution-plebfi2025.pdf) | [Ryan Grant](https://github.com/dcdpr) |
 | 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs |  [ `_fmrmf_`](https://x.com/_fmrmf_) |
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime | [OwenKemeys](https://x.com/OwenKemeys) |
