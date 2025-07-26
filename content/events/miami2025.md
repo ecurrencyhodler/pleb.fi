@@ -75,7 +75,7 @@ schedule subject to change at the whims of your organizers
 | 11:30 AM | Filters and metaprotocols. [Link to slides](https://docs.google.com/presentation/d/1d2OFeZ_7Ddq_7zejVNG-WzaKGlEq_8jX4OlK_6-hIA4/edit?usp=sharing) | [portlandhodl](https://x.com/PortlandHODL) |
 | 12:00 PM | Lunch | Empanadas! |
 | 1:00 PM | Taproot Asset tips for hackathons. [Link to slides](https://docs.google.com/presentation/d/1MQr8sfQqko6pRJWT4skeQzfV7xdDwm0_KThlyktcl-c/edit?usp=sharing) | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
-| 1:30 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2. [Link to slides.](/Users/andrewyang/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/stable/account-18427911713198306925/postbox/media/telegram-cloud-photo-size-4-5777134667487623729-y.jpg) | [setzeus](https://x.com/setzeus) |
+| 1:30 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2. [Link to slides](https://github.com/setzeus/accelerate-tx-flavors) | [setzeus](https://x.com/setzeus) |
 | 2:00 PM | The Key to Self-custody is Key Distribution | [Ryan Grant](https://github.com/dcdpr) |
 | 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs |  [ `_fmrmf_`](https://x.com/_fmrmf_) |
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
