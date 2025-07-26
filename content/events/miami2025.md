@@ -79,8 +79,8 @@ schedule subject to change at the whims of your organizers
 | 2:00 PM | The Key to Self-custody is Key Distribution. [Link to slides](https://github.com/JeremyRubin/pleb.fi/blob/master/static/slides/2025/miami/rgrant-btc1-key-distribution-plebfi2025.pdf) | [Ryan Grant](https://github.com/dcdpr) |
 | 2:30 PM | Workshop: Integrating with Ekubo to deliver Bitcoin asset trading on AMMs |  [ `_fmrmf_`](https://x.com/_fmrmf_) |
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols. [Link to slides](https://docs.google.com/presentation/d/1He4hEwO2hAVuzkM0Jd_D38WIGUUyvTRAovv6nesP14g/edit?usp=sharing)| [btc_luce](https://x.com/btc_luce) |
-| 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime | [OwenKemeys](https://x.com/OwenKemeys) |
-| 4:00 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
+| 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime. [Link to slides](https://docs.google.com/presentation/d/1Q4EvzEH31CZPgl33pgtmmYdVwMNIXDo_UYspcofXnJE/edit?slide=id.g3620fce4c6e_0_78#slide=id.g3620fce4c6e_0_78) | [OwenKemeys](https://x.com/OwenKemeys) |
+| 4:00 PM | Workshop: Rust for wasm (and alkanes btw). [Link to slides](https://github.com/sandshrewmetaprotocols/plebfi-wasm) | [judoflexchop](https://x.com/judoflexchop) |
 | 4:30 PM | Future of metaprotocols panel | [Lukasz](https://x.com/lukaszwicher), [btc_luce](https://x.com/btc_luce), [judoflexchop](https://x.com/judoflexchop), [Michael Tidwell](https://x.com/miketwenty1) |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Mediterranean food |
