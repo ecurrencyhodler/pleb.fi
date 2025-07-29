@@ -90,7 +90,7 @@ schedule subject to change at the whims of your organizers
 | --------- | ----- | -----|
 | 9:00 AM | Light breakfast and coffee | Light breakfast and coffee |
 | 12:00 PM | Lunch | Sandwiches |
-| 5:00 PM | Hackathon presentations | All projects present |
+| 5:00 PM | Hackathon presentations | Judges: [mini_ponz](https://x.com/ponzini), [OwenKemeys](https://x.com/OwenKemeys), [Rijndael](https://x.com/rot13maxi) |
 | 6:15 PM | Winners announced | Closing ceremony |
 | 7:00 PM | Afterparty | Afterparty |
 
@@ -105,6 +105,7 @@ there will be prizes in different categories! (subject to change till the event 
 | 1st place | $3000 |
 | 2nd place | $2000 |
 | 3rd place | $1000 |
+| Honorary mention | $500 |
 
 
 ## basic rules
