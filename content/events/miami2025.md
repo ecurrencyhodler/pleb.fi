@@ -60,9 +60,8 @@ interested in becoming a sponsor? help feed the plebs and fill out [this form](h
 - **sun july 27th afternoon: hackathon judging & demos**
 
 ## so...what's the plan?
-if you want to speak, submit your workshop topic proposal [here](https://forms.gle/U5gmmBNGGY68qJpr9). the workshops should be related to the theme and empower plebs to build cool stuff.
 
-schedule subject to change at the whims of your organizers
+Watch all the talks and hackathon presentations on our [youtube playlist](https://www.youtube.com/playlist?list=PLdcre562lEfFocpRLWM1T5YAoz2tzW0_H)!
 
 **july 26**
 | Time | Topic | Speaker |
