@@ -34,3 +34,4 @@ description: the best conference for bitcoin ever.
 ### other info
 1. [privacy policy](/privacy)
 1. [disclaimer and code of conduct](/disclaimers)
+1. [potluck](/potluck)
