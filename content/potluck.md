@@ -99,9 +99,10 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Limit Team Size 
 - Do set policies (see [austin's](/austin)) on cheating
 - Have a remote hacker policy
-- Collect team info towards end of hackathon. Also ask how they'd like to be mentioned alongisde their project publicly and if they are comfortable being recorded.
+- Collect team info towards end of hackathon. Also ask how what name/nym they want publicly shared with their project name and if they are okay with being recorded.
 - Consider allowing speakers to participate. They also make great mentors!
 - Collect W-9's if payouts are over the threshold
+- Give 30 minutes or more for people to work on their presentations after they submit their projects
 
 ## Judging & Prizes
 
