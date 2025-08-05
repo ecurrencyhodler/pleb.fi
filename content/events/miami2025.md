@@ -29,16 +29,16 @@ ticket prices will be:
 2. $60 regular (July 18+)
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="https://forms.gle/rDoCG45VLXVpETW56" target="_blank" rel="noopener noreferrer" style="
+  <a target="_blank" rel="noopener noreferrer" style="
     display: inline-block;
-    background-color: #007BFF;
+    background-color: #808080;
     color: #fff;
     padding: 0.75rem 1.5rem;
     text-decoration: none;
     font-size: 1rem;
     border-radius: 0.3rem;
     transition: background-color 0.2s ease-in-out;">
-    apply now
+    applications are closed 😢
   </a>
 </div>
 
