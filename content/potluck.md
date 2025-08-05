@@ -20,6 +20,7 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 
 
 # To Organize
+
 1. Organizer should have previously attended a non-potluck pleb.fi (exceptions granted)
 2. Open an issue on the pleb [repo](https://github.com/JeremyRubin/pleb.fi) and tag @JeremyRubin
 3. Open a PR with an event page
@@ -85,16 +86,22 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Sponsors are free to send swag if they want, can be used for hackathon prizes or to all attendees
 - If you make your own swag, remember that most people don't need yet another free shirt. Make it a statement.
 
+# Media Policy
+
+- Photos and videos of attendees and speakers can only be taken with permission. 
+- Check with speakers that they are comfortable being recorded and having their talks posted online. Cover their face or don't post their talk if they aren't.
 
 # Hackathon
 
 - If you are putting on a hackathon that's awesome!
-- Hackathon should go after talks.
+- Hackathon should go after talks
 - Don't schedule talks during hackathon
 - Limit Team Size 
 - Do set policies (see [austin's](/austin)) on cheating
 - Have a remote hacker policy
-- Collect team info towards end of hackathon
+- Collect team info towards end of hackathon. Also ask how they'd like to be mentioned alongisde their project publicly and if they are comfortable being recorded.
+- Consider allowing speakers to participate. They also make great mentors!
+- Collect W-9's if payouts are over the threshold
 
 ## Judging & Prizes
 
@@ -103,8 +110,8 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
   anyone
 - At the end of the event have people present
 -- you can also have judges go around and view projects 1 on 1 time permitting
+- Keep presentations and Q & A short short, especially if there are a lot of projects
 - Judges should cordon off and deliberate (this takes longer than you think)
-
 
 # Agenda
 
@@ -114,7 +121,7 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
       what is an attendee going to get out of this? How does it connect to the
       talk before? The talk after? Is it coherent?
     - No one has to give a talk at pleb.fi. If the content doesn't fit, but you
-      like the speaker, cut it.
+      like the speaker, cut it
     - Sponsors don't automatically get a talk. It has to be on point. 
     - Reach out to speakers you want with concepts of what they could talk
       about that fits your narrative.
@@ -131,15 +138,18 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - They need to keep things on track time wise, manage questions, and herd
   speakers to stage on time
 - Be familiar with speakers talks to give intros and stuff
+- Get speakers ready and cued for their talks i.e. they are actually at the venue
+
 ## Speakers
 ### Panels
 - Panels should have 1 Moderator and 3 Panelists, 4 maximum if absolutely
-  necessary (better to split the panels).
+  necessary (better to split the panels)
 - Rule of thumb: 10 minutes per panel guest
 - No "Mini Talk Per Panelist" -- Panels should be dynamic and focus on
-  engagement between panelists.
-- Leave time for Q&A.
+  engagement between panelists
+- Leave time for Q&A
 - Pre conference chat!
+
 ### Fireside Chats
 - Two people
 - The people should have some big disagreement (they are the fire) they can
@@ -161,8 +171,6 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Dockerized format a must.
 - Small Sat bounties for completion a great idea; cap it at ~$100 so as not to
   compete on who pays for eyeballs (ok for organizers to reimburse)
-
-
 
 # Tech
 ## AV
@@ -188,10 +196,17 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 
 # Venue
 
-- Ensure the Venue has sufficient space for attendees
+- Ensure the Venue has sufficient space for attendees. Make sure attendees don't surprass max occupancy.
 - If having a hackathon, you need tables and chargers and wifi
-- Bathrooms etc
+- Bathrooms 
 - Try to limit how widely you broadcast the specific location for security
+- Find a space that people can stay overnight to keep hacking (optional)
+
+# Logistics
+
+- Remind attendees the day before and the hour before the event at minimum
+- Recommend housing for speakers and attendees
+- Create a group chat (e.g. TG) with attendees and speakers to make coordination easier
 
 # Media Licensing & Copyright
 
